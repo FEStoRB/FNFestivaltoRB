@@ -38,6 +38,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Green Day - Paradise
 * Green Day - When I Come Around
 * Greta Van Fleet - Highway Tune
+* Guns N' Roses - Welcome To The Jungle
 * Haddaway - What Is Love
 * Imagine Dragons - Believer
 * Imagine Dragons - Thunder
