@@ -73,6 +73,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * No Doubt - Just a Girl
 * Olivia Rodrigo - get him back!
 * Olivia Rodrigo - good 4 u
+* Olivia Rodrigo - vampire
 * OneRepublic - Counting Stars
 * Pat Benatar - Heartbreaker
 * P!nk - So What
