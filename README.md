@@ -75,6 +75,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Olivia Rodrigo - good 4 u
 * Olivia Rodrigo - vampire
 * OneRepublic - Counting Stars
+* Panic at the Disco - High Hopes
 * Pat Benatar - Heartbreaker
 * P!nk - So What
 * Post Malone - Circles
@@ -87,6 +88,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Rob Zombie - Dragula
 * Shawn Mendes - Stitches
 * Slipknot - Before I Forget
+* Sublime - Santeria
 * Sub Urban - Cradles
 * The Cranberries - Zombie
 * The Cure - Friday I'm in Love
