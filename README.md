@@ -89,6 +89,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Shawn Mendes - Stitches
 * Slipknot - Before I Forget
 * Sublime - Santeria
+* Sublime - What I Got
 * Sub Urban - Cradles
 * The Cranberries - Zombie
 * The Cure - Friday I'm in Love
