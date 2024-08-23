@@ -56,6 +56,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Metallica - Fade To Black
 * Metallica - For Whom The Bell Tolls
 * Metallica - Fuel
+* Metallica - Lux Æterna
 * Metallica - Master of Puppets
 * Metallica - Nothing Else Matters
 * Metallica - One
