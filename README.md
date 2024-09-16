@@ -45,6 +45,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Jimmy Eat World - The Middle
 * John Williams, London Symphony Orchestra - Cantina Band
 * Kansas - Carry on Wayward Son
+* Karol G ft. Tiesto - PROVENZA (REMIX)
 * Kendrick Lamar - i (RB3 con)
 * KT Tunstall - Suddenly I See
 * Lady Gaga - Bad Romance
