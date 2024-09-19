@@ -61,6 +61,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Metallica - Master of Puppets
 * Metallica - Nothing Else Matters
 * Metallica - One
+* Metallica - Sad But True
 * Metallica - Seek & Destroy
 * Metallica - The Unforgiven
 * Metallica - Wherever I May Roam
