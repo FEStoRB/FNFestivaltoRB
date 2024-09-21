@@ -15,6 +15,7 @@ Below is a list of all songs currently completed. (Hand authored)
 *Note that RB1/RB2 cons will still load in RB3 just fine. Do not attempt to convert to an RB3 con yourself, you will break the con.*
 
 ## Songs currently completed:
+* Alice Deejay - Better Off Alone
 * All-American Rejects - Dirty Little Secret
 * Aqua - Barbie Girl
 * Ariana Granda - Into You
