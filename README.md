@@ -31,6 +31,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Darude - Sandstorm
 * DNCE - Cake by the Ocean
 * Doja Cat - Say So
+* Earth, Wind & Fire - September
 * Epic Games - 8-Bit Beat
 * Epic Games - Butter Barn Hoedown
 * Epic Games - S.O.M.P.
