@@ -110,6 +110,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Rancid - Ruby Soho
 * Rick James - Super Freak
 * Rob Zombie - Dragula
+* Shakira - Whenever, Wherever
 * Shawn Mendes - Stitches
 * Sia - Cheap Thrills (ft. Sean Paul)
 * Slipknot - Before I Forget
