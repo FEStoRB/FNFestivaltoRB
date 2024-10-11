@@ -99,6 +99,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * OneRepublic - Counting Stars
 * Panic at the Disco - High Hopes
 * Pat Benatar - Heartbreaker
+* Pharrell Williams - Happy
 * P!nk - So What
 * Portugal. The Man - Feel It Still
 * Post Malone - Circles
