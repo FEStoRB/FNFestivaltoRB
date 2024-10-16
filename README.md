@@ -34,6 +34,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Earth, Wind & Fire - September
 * Epic Games - 8-Bit Beat
 * Epic Games - Butter Barn Hoedown
+* Epic Games - Dreamer (RB3 con)
 * Epic Games - S.O.M.P.
 * Fall Out Boy - My Songs Know What You Did in the Dark
 * Florence + the Machine - Dog Days Are Over (RB3 con)
