@@ -99,6 +99,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * OneRepublic - Counting Stars
 * Panic at the Disco - High Hopes
 * Pat Benatar - Heartbreaker
+* Pharrell Williams - Happy
 * P!nk - So What
 * Portugal. The Man - Feel It Still
 * Post Malone - Circles
@@ -115,6 +116,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Sia - Cheap Thrills (ft. Sean Paul)
 * Slipknot - Before I Forget
 * Slipknot - Unsainted
+* Soundgarden - Fell on Black Days
 * Sublime - Santeria
 * Sublime - What I Got
 * Sub Urban - Cradles
