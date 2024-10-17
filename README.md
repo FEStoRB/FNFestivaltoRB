@@ -29,6 +29,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Blink-182 - All the Small Things
 * Blur - Song 2
 * Darude - Sandstorm
+* Disturbed - The Sound of Silence
 * DNCE - Cake by the Ocean
 * Doja Cat - Say So
 * Earth, Wind & Fire - September
@@ -87,6 +88,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Miley Cyrus - Flowers
 * Montell Jordan - This Is How We Do It
 * Muse - Hysteria
+* My Chemical Romance - I'm Not Okay (I Promise)
 * Nelly ft. City Spud - Ride Wit Me
 * NF - The Search
 * Nicki Minaj - Starships
@@ -126,6 +128,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * The Cranberries - Zombie
 * The Cure - Friday I'm in Love
 * The Killers - Mr. Brightside
+* The Killers - Somebody Told Me
 * The Weeknd - Blinding Lights
 * The Weeknd - Can't Feel My Face
 * The Weeknd - Save Your Tears
