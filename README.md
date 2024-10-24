@@ -64,6 +64,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * KT Tunstall - Suddenly I See
 * Lady Gaga - Bad Romance
 * Lady Gaga - Just Dance (ft. Colby O'Donis)
+* Lil Nas X - MONTERO (Call Me by Your Name) 
 * Lil Uzi Vert - XO Tour Llif3
 * Linkin Park - In the End
 * Linkin Park - Numb
