@@ -22,6 +22,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Aqua - Barbie Girl
 * Ariana Grande - Into You
 * Avenged Sevenfold - Hail to the King
+* Avenged Sevenfold - Nightmare
 * Bastille - Pompeii
 * Beastie Boys - Sabotage
 * Billie Eilish - bad guy
