@@ -59,9 +59,10 @@ Below is a list of all songs currently completed. (Hand authored)
 * Jonas Brothers - Sucker
 * Juice WRLD - Come & Go (ft. Marshmello)
 * Justin Bieber - What Do You Mean?
+* Justin Timberlake - SexyBack (ft. Timbaland)
 * Kansas - Carry on Wayward Son
-* Karol G ft. Tiesto - PROVENZA (REMIX)
-* Kendrick Lamar - i (RB3 con)
+* Karol G - PROVENZA (REMIX) (ft. Tiesto)
+* Kendrick Lamar - i
 * KT Tunstall - Suddenly I See
 * Lady Gaga - Bad Romance
 * Lady Gaga - Just Dance (ft. Colby O'Donis)
