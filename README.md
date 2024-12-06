@@ -142,4 +142,5 @@ Below is a list of all songs currently completed. (Hand authored)
 * The White Stripes - Seven Nation Army
 * Twenty One Pilots - Heathens
 * Twenty One Pilots - Stressed Out
+* Vengaboys - We Like to Party! (The Vengabus)
 * Weezer - Buddy Holly
