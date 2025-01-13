@@ -53,6 +53,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Guns N' Roses - Welcome to the Jungle
 * Haddaway - What Is Love
 * Imagine Dragons - Believer
+* Imagine Dragons - Demon
 * Imagine Dragons - Thunder
 * Jimmy Eat World - The Middle
 * John Williams, London Symphony Orchestra - Cantina Band
