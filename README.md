@@ -56,6 +56,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Guns N' Roses - Welcome to the Jungle
 * Haddaway - What Is Love
 * Imagine Dragons - Believer
+* Imagine Dragons - Demons
 * Imagine Dragons - Radioactive
 * Imagine Dragons - Thunder
 * Jimmy Eat World - The Middle
@@ -127,6 +128,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Red Hot Chili Peppers - Snow ((Hey Oh))
 * Rick James - Super Freak
 * Rob Zombie - Dragula
+* Shakira - Hips Don't Lie (ft. Wyclef Jean)
 * Shakira - Whenever, Wherever
 * Shawn Mendes - Stitches
 * Sia - Cheap Thrills (ft. Sean Paul)
