@@ -15,6 +15,7 @@ Below is a list of all songs currently completed. (Hand authored)
 *Note that RB1/RB2 cons will still load in RB3 just fine. Do not attempt to convert to an RB3 con yourself, you will break the con.*
 
 ## Songs currently completed:
+* 3 Doors Down - Kryptonite
 * 5 Seconds of Summer - Youngblood
 * Alice Deejay - Better Off Alone
 * Alice in Chains - Would?
@@ -30,6 +31,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Blink-182 - All the Small Things
 * Blur - Song 2
 * Britney Spears - Toxic
+* Chumbawamba - Tubthumping
 * Darude - Sandstorm
 * Disturbed - The Sound of Silence
 * DNCE - Cake by the Ocean
@@ -39,6 +41,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Epic Games - Butter Barn Hoedown
 * Epic Games - Dreamer (RB3 con)
 * Epic Games - S.O.M.P.
+* Fall Out Boy - Centuries
 * Fall Out Boy - My Songs Know What You Did in the Dark
 * Florence + the Machine - Dog Days Are Over (RB3 con)
 * Foo Fighters - Everlong
@@ -54,6 +57,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Haddaway - What Is Love
 * Imagine Dragons - Believer
 * Imagine Dragons - Demons
+* Imagine Dragons - Radioactive
 * Imagine Dragons - Thunder
 * Jimmy Eat World - The Middle
 * John Williams, London Symphony Orchestra - Cantina Band
@@ -106,6 +110,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Olivia Rodrigo - good 4 u
 * Olivia Rodrigo - vampire
 * OneRepublic - Counting Stars
+* Outkast - Hey Ya!
 * Panic at the Disco - High Hopes
 * Pat Benatar - Heartbreaker
 * Pharrell Williams - Happy
@@ -118,6 +123,9 @@ Below is a list of all songs currently completed. (Hand authored)
 * Rage Against the Machine - Killing in the Name
 * Ramones - Blitzkrieg Bop
 * Rancid - Ruby Soho
+* Red Hot Chili Peppers - Californication
+* Red Hot Chili Peppers - Give It Away
+* Red Hot Chili Peppers - Snow ((Hey Oh))
 * Rick James - Super Freak
 * Rob Zombie - Dragula
 * Shakira - Hips Don't Lie (ft. Wyclef Jean)
@@ -130,7 +138,9 @@ Below is a list of all songs currently completed. (Hand authored)
 * Sublime - Santeria
 * Sublime - What I Got
 * Sub Urban - Cradles
+* Sum 41 - Fat Lip
 * Taking Back Sunday - MakeDamnSure
+* The Black Keys - Lonely Boy
 * The Chainsmokers - Closer (ft. Halsey)
 * The Cranberries - Zombie
 * The Cure - Friday I'm in Love
@@ -142,6 +152,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * The Weeknd - Take My Breath
 * The Weeknd - The Hills
 * The White Stripes - Seven Nation Army
+* Toto - Africa
 * Twenty One Pilots - Heathens
 * Twenty One Pilots - Stressed Out
 * Vengaboys - We Like to Party! (The Vengabus)
