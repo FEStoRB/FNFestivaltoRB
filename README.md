@@ -20,6 +20,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Alice Deejay - Better Off Alone
 * Alice in Chains - Would?
 * All-American Rejects - Dirty Little Secret
+* Anamanaguchi, Hatsune Miku - Miku
 * Aqua - Barbie Girl
 * Ariana Grande - Into You
 * Avenged Sevenfold - Hail to the King
