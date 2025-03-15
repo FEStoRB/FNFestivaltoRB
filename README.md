@@ -25,12 +25,10 @@ Below is a list of all songs currently completed. (Hand authored)
 * Ariana Grande - Into You
 * Avenged Sevenfold - Hail to the King
 * Avenged Sevenfold - Nightmare
-* B.o.B. - Airplanes (ft. Hayley Williams)
 * Bastille - Pompeii
 * Beastie Boys - Sabotage
 * Billie Eilish - bad guy
 * Billie Eilish - Therefore I Am
-* Blink-182 - Adam's Song
 * Blink-182 - All the Small Things
 * Blue Öyster Cult - Godzilla
 * Blur - Song 2
@@ -49,7 +47,6 @@ Below is a list of all songs currently completed. (Hand authored)
 * Fall Out Boy - My Songs Know What You Did in the Dark
 * Florence + the Machine - Dog Days Are Over (RB3 con)
 * Foo Fighters - Everlong
-* Foo Fighters - The Pretender
 * Glass Animals - Heat Waves
 * Gorillaz - Feel Good Inc.
 * Green Day - Basket Case
