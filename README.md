@@ -75,9 +75,11 @@ Below is a list of all songs currently completed. (Hand authored)
 * Karol G - PROVENZA (REMIX) (ft. Tiesto)
 * Kendrick Lamar - i
 * KT Tunstall - Suddenly I See
+* Lady Gaga - Applause
 * Lady Gaga - Bad Romance
 * Lady Gaga - Born This Way
 * Lady Gaga - Just Dance (ft. Colby O'Donis)
+* Lady Gaga - The Edge of Glory
 * Lil Nas X - MONTERO (Call Me by Your Name) 
 * Lil Uzi Vert - XO Tour Llif3
 * Linkin Park - In the End
