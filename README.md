@@ -29,15 +29,18 @@ Below is a list of all songs currently completed. (Hand authored)
 * Beastie Boys - Sabotage
 * Billie Eilish - bad guy
 * Billie Eilish - Therefore I Am
-* Blink-182 - All the Small Things
+* blink-182 - Adam's Song
+* blink-182 - All the Small Things
 * Blue Öyster Cult - Godzilla
 * Blur - Song 2
+* B.o.B. - Airplanes (ft. Hayley Williams)
 * Britney Spears - Toxic
 * Chumbawamba - Tubthumping
 * Darude - Sandstorm
 * Disturbed - The Sound of Silence
 * DNCE - Cake by the Ocean
 * Doja Cat - Say So
+* DragonForce - Through the Fire and Flames
 * Earth, Wind & Fire - September
 * Epic Games - 8-Bit Beat
 * Epic Games - Butter Barn Hoedown
@@ -47,6 +50,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Fall Out Boy - My Songs Know What You Did in the Dark
 * Florence + the Machine - Dog Days Are Over (RB3 con)
 * Foo Fighters - Everlong
+* Foo Fighters - The Pretender
 * Glass Animals - Heat Waves
 * Gorillaz - Feel Good Inc.
 * Green Day - Basket Case
@@ -71,8 +75,11 @@ Below is a list of all songs currently completed. (Hand authored)
 * Karol G - PROVENZA (REMIX) (ft. Tiesto)
 * Kendrick Lamar - i
 * KT Tunstall - Suddenly I See
+* Lady Gaga - Applause
 * Lady Gaga - Bad Romance
+* Lady Gaga - Born This Way
 * Lady Gaga - Just Dance (ft. Colby O'Donis)
+* Lady Gaga - The Edge of Glory
 * Lil Nas X - MONTERO (Call Me by Your Name) 
 * Lil Uzi Vert - XO Tour Llif3
 * Linkin Park - In the End
@@ -83,6 +90,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Machine Gun Kelly - My Ex's Best Friend (ft. blackbear)
 * Mark Ronson - Uptown Funk (ft. Bruno Mars)
 * Maroon 5 - Maps
+* Maroon 5 - Moves Like Jagger (ft. Christina Aguilera)
 * Masked Wolf - Astronaut in the Ocean
 * Metallica - Fade to Black
 * Metallica - For Whom the Bell Tolls
@@ -154,6 +162,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * The Weeknd - Save Your Tears
 * The Weeknd - Take My Breath
 * The Weeknd - The Hills
+* The White Stripes - Fell in Love with a Girl
 * The White Stripes - Seven Nation Army
 * Toto - Africa
 * Twenty One Pilots - Heathens
