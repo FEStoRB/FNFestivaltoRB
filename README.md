@@ -30,6 +30,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Billie Eilish - bad guy
 * Billie Eilish - Therefore I Am
 * Blink-182 - All the Small Things
+* Blue Öyster Cult - Godzilla
 * Blur - Song 2
 * Britney Spears - Toxic
 * Chumbawamba - Tubthumping
