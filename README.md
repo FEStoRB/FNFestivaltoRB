@@ -168,5 +168,6 @@ Below is a list of all songs currently completed. (Hand authored)
 * Toto - Africa
 * Twenty One Pilots - Heathens
 * Twenty One Pilots - Stressed Out
+* U2 - With Or Without You
 * Vengaboys - We Like to Party! (The Vengabus)
 * Weezer - Buddy Holly
