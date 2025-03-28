@@ -74,6 +74,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Justin Timberlake - SexyBack (ft. Timbaland)
 * Kansas - Carry on Wayward Son
 * Karol G - PROVENZA (REMIX) (ft. Tiesto)
+* Kendrick Lamar - HUMBLE
 * Kendrick Lamar - i
 * KT Tunstall - Suddenly I See
 * Lady Gaga - Applause
