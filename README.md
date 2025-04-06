@@ -140,6 +140,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Red Hot Chili Peppers - Snow ((Hey Oh))
 * Rick James - Super Freak
 * Rob Zombie - Dragula
+* Run DMC - Walk This Way (ft. Aerosmith)
 * Sam Smith - Unholy ft. Kim Petras
 * Shakira - Hips Don't Lie (ft. Wyclef Jean)
 * Shakira - Whenever, Wherever
