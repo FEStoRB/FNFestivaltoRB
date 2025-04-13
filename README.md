@@ -86,6 +86,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Lil Uzi Vert - XO Tour Llif3
 * Linkin Park - In the End
 * Linkin Park - Numb
+* Linkin Park - Up From The Bottom
 * LMFAO - Party Rock Anthem (ft. Lauren Bennett & GoonRock)
 * Machine Gun Kelly - emo girl (ft. WILLOW)
 * Machine Gun Kelly - I Think I'm OKAY (ft. YUNGBLUD & Travis Barker)
