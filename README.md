@@ -17,6 +17,7 @@ Below is a list of all songs currently completed. (Hand authored)
 ## Songs currently completed:
 * 3 Doors Down - Kryptonite
 * 5 Seconds of Summer - Youngblood
+* Alanis Morissette - You Oughta Know
 * Alice Deejay - Better Off Alone
 * Alice in Chains - Would?
 * All-American Rejects - Dirty Little Secret
@@ -51,6 +52,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Florence + the Machine - Dog Days Are Over (RB3 con)
 * Foo Fighters - Everlong
 * Foo Fighters - The Pretender
+* Fountains of Wayne - Stacy's Mom
 * Glass Animals - Heat Waves
 * Gorillaz - Feel Good Inc.
 * Green Day - Basket Case
@@ -86,7 +88,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Lil Uzi Vert - XO Tour Llif3
 * Linkin Park - In the End
 * Linkin Park - Numb
-* Linkin Park - Up From The Bottom
+* Linkin Park - Up from the Bottom
 * LMFAO - Party Rock Anthem (ft. Lauren Bennett & GoonRock)
 * Machine Gun Kelly - emo girl (ft. WILLOW)
 * Machine Gun Kelly - I Think I'm OKAY (ft. YUNGBLUD & Travis Barker)
@@ -125,6 +127,8 @@ Below is a list of all songs currently completed. (Hand authored)
 * OneRepublic - Counting Stars
 * Outkast - Hey Ya!
 * Panic at the Disco - High Hopes
+* Paramore - Ain't It Fun
+* Paramore - Still Into You
 * Pat Benatar - Heartbreaker
 * Pharrell Williams - Happy
 * P!nk - So What
@@ -139,9 +143,10 @@ Below is a list of all songs currently completed. (Hand authored)
 * Red Hot Chili Peppers - Californication
 * Red Hot Chili Peppers - Give It Away
 * Red Hot Chili Peppers - Snow ((Hey Oh))
+* Rick Astley - Never Gonna Give You Up
 * Rick James - Super Freak
 * Rob Zombie - Dragula
-* Run DMC - Walk This Way (ft. Aerosmith)
+* Run-DMC - Walk This Way (ft. Aerosmith)
 * Sam Smith - Unholy ft. Kim Petras
 * Shakira - Hips Don't Lie (ft. Wyclef Jean)
 * Shakira - Whenever, Wherever
