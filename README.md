@@ -70,6 +70,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Jennifer Lopez - Love Don't Cost A Thing
 * Jimmy Eat World - The Middle
 * John Williams & London Symphony Orchestra - Cantina Band
+* John Williams & London Symphony Orchestra - Star Wars Main Title Theme/March of the Resistance (Fortnite Rearrangement)
 * John Williams & London Symphony Orchestra - The Imperial March (Darth Vader's Theme)
 * Jonas Brothers - Sucker
 * Juice WRLD - Come & Go (ft. Marshmello)
