@@ -67,6 +67,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Imagine Dragons - Demons
 * Imagine Dragons - Radioactive
 * Imagine Dragons - Thunder
+* Jelly Roll - Liar
 * Jennifer Lopez - Love Don't Cost A Thing
 * Jimmy Eat World - The Middle
 * John Williams & London Symphony Orchestra - Cantina Band
