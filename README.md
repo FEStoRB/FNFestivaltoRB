@@ -89,6 +89,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Lady Gaga - The Edge of Glory
 * Lil Nas X - MONTERO (Call Me by Your Name) 
 * Lil Uzi Vert - XO Tour Llif3
+* Linkin Park - The Emptiness Machine
 * Linkin Park - In the End
 * Linkin Park - Numb
 * Linkin Park - Up from the Bottom
