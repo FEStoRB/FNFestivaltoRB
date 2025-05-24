@@ -90,6 +90,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Lil Nas X - MONTERO (Call Me by Your Name) 
 * Lil Uzi Vert - XO Tour Llif3
 * Linkin Park - The Emptiness Machine
+* Linkin Park - Faint
 * Linkin Park - In the End
 * Linkin Park - Numb
 * Linkin Park - Up from the Bottom
