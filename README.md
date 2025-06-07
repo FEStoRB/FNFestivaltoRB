@@ -149,6 +149,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Red Hot Chili Peppers - Californication
 * Red Hot Chili Peppers - Give It Away
 * Red Hot Chili Peppers - Snow ((Hey Oh))
+* Ricky Martin - Livin' La Vida Loca
 * Rick Astley - Never Gonna Give You Up
 * Rick James - Super Freak
 * Rob Zombie - Dragula
