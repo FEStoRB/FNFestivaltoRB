@@ -30,13 +30,17 @@ Below is a list of all songs currently completed. (Hand authored)
 * Beastie Boys - Sabotage
 * Billie Eilish - bad guy
 * Billie Eilish - Therefore I Am
+* Black Keys, The - Lonely Boy
 * blink-182 - Adam's Song
 * blink-182 - All the Small Things
 * Blue Öyster Cult - Godzilla
 * Blur - Song 2
 * B.o.B. - Airplanes (ft. Hayley Williams)
 * Britney Spears - Toxic
+* Chainsmokers, The - Closer (ft. Halsey)
 * Chumbawamba - Tubthumping
+* Cranberries, The - Zombie
+* Cure, The - Friday I'm in Love
 * Darude - Sandstorm
 * Disturbed - The Sound of Silence
 * DNCE - Cake by the Ocean
@@ -82,6 +86,8 @@ Below is a list of all songs currently completed. (Hand authored)
 * Karol G - PROVENZA (REMIX) (ft. Tiesto)
 * Kendrick Lamar - HUMBLE
 * Kendrick Lamar - i
+* Killers, The - Mr. Brightside
+* Killers, The - Somebody Told Me
 * KT Tunstall - Suddenly I See
 * Lady Gaga - Applause
 * Lady Gaga - Bad Romance
@@ -125,6 +131,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Nine Inch Nails - Less Than
 * Nine Inch Nails - The Hand That Feeds
 * Nirvana - Breed
+* Nirvana - Smells Like Teen Spirit
 * No Doubt - Just a Girl
 * Notorious B.I.G, The - Big Poppa
 * Olivia Rodrigo - get him back!
@@ -167,22 +174,16 @@ Below is a list of all songs currently completed. (Hand authored)
 * Sub Urban - Cradles
 * Sum 41 - Fat Lip
 * Taking Back Sunday - MakeDamnSure
-* The Black Keys - Lonely Boy
-* The Chainsmokers - Closer (ft. Halsey)
-* The Cranberries - Zombie
-* The Cure - Friday I'm in Love
-* The Killers - Mr. Brightside
-* The Killers - Somebody Told Me
-* The Weeknd - Blinding Lights
-* The Weeknd - Can't Feel My Face
-* The Weeknd - Save Your Tears
-* The Weeknd - Take My Breath
-* The Weeknd - The Hills
-* The White Stripes - Fell in Love with a Girl
-* The White Stripes - Seven Nation Army
 * Toto - Africa
 * Twenty One Pilots - Heathens
 * Twenty One Pilots - Stressed Out
 * U2 - With Or Without You
 * Vengaboys - We Like to Party! (The Vengabus)
+* Weeknd, The - Blinding Lights
+* Weeknd, The - Can't Feel My Face
+* Weeknd, The - Save Your Tears
+* Weeknd, The - Take My Breath
+* Weeknd, The - The Hills
 * Weezer - Buddy Holly
+* White Stripes, The - Fell in Love with a Girl
+* White Stripes, The - Seven Nation Army
