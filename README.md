@@ -50,6 +50,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Epic Games - 8-Bit Beat
 * Epic Games - Butter Barn Hoedown
 * Epic Games - Dreamer (RB3 con)
+* Epic Games - Inferno Island (Molten Mix)
 * Epic Games - S.O.M.P.
 * Fall Out Boy - Centuries
 * Fall Out Boy - My Songs Know What You Did in the Dark
