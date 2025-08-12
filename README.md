@@ -162,6 +162,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Rick James - Super Freak
 * Rob Zombie - Dragula
 * Run-DMC - Walk This Way (ft. Aerosmith)
+* ryo (supercell) - Melt (ft. Hatsune Miku)
 * Sam Smith - Unholy ft. Kim Petras
 * Shakira - Hips Don't Lie (ft. Wyclef Jean)
 * Shakira - Whenever, Wherever
