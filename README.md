@@ -168,6 +168,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Shakira - Whenever, Wherever
 * Shawn Mendes - Stitches
 * Sia - Cheap Thrills (ft. Sean Paul)
+* Skrillex - Scary Monsters and Nice Sprites
 * Slipknot - Before I Forget
 * Slipknot - Unsainted
 * Soundgarden - Fell on Black Days
