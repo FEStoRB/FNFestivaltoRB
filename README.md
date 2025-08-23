@@ -161,6 +161,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Rick Astley - Never Gonna Give You Up
 * Rick James - Super Freak
 * Rob Zombie - Dragula
+* Ron Wasserman - Go Go Power Rangers
 * Run-DMC - Walk This Way (ft. Aerosmith)
 * ryo (supercell) - Melt (ft. Hatsune Miku)
 * Sam Smith - Unholy ft. Kim Petras
