@@ -59,6 +59,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Foo Fighters - The Pretender
 * Fountains of Wayne - Stacy's Mom
 * Glass Animals - Heat Waves
+* Gorillaz - DARE (ft. Shaun Ryder & Roses Gabor) 
 * Gorillaz - Feel Good Inc.
 * Green Day - Basket Case
 * Green Day - Boulevard of Broken Dreams
