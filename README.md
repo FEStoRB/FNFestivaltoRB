@@ -61,6 +61,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Glass Animals - Heat Waves
 * Gorillaz - DARE (ft. Shaun Ryder & Roses Gabor) 
 * Gorillaz - Feel Good Inc.
+* Gorillaz - On Melancholy Hill
 * Green Day - Basket Case
 * Green Day - Boulevard of Broken Dreams
 * Green Day - Welcome to Paradise
