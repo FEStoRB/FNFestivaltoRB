@@ -167,6 +167,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Ron Wasserman - Go Go Power Rangers
 * Run-DMC - Walk This Way (ft. Aerosmith)
 * ryo (supercell) - Melt (ft. Hatsune Miku)
+* Sabrina Carpenter - Please Please Please
 * Sam Smith - Unholy ft. Kim Petras
 * Shakira - Hips Don't Lie (ft. Wyclef Jean)
 * Shakira - Whenever, Wherever
