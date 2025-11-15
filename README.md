@@ -63,6 +63,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Gorillaz - DARE (ft. Shaun Ryder & Roses Gabor) 
 * Gorillaz - Feel Good Inc.
 * Gorillaz - On Melancholy Hill
+* Gotye - Somebody That I Used to Know (ft. Kimbra)
 * Green Day - Basket Case
 * Green Day - Boulevard of Broken Dreams
 * Green Day - Welcome to Paradise
