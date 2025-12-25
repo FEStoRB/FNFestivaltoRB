@@ -110,6 +110,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Machine Gun Kelly - emo girl (ft. WILLOW)
 * Machine Gun Kelly - I Think I'm OKAY (ft. YUNGBLUD & Travis Barker)
 * Machine Gun Kelly - My Ex's Best Friend (ft. blackbear)
+* Mariah Carey - All I Want For Christmas Is You
 * Mark Ronson - Uptown Funk (ft. Bruno Mars)
 * Maroon 5 - Maps
 * Maroon 5 - Moves Like Jagger (ft. Christina Aguilera)
