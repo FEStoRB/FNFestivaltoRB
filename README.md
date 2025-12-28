@@ -42,6 +42,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Cranberries, The - Zombie
 * Cure, The - Friday I'm in Love
 * Darude - Sandstorm
+* David Glen Eisley & Bob Kulick - Sweet Victory
 * Disturbed - The Sound of Silence
 * DNCE - Cake by the Ocean
 * Doja Cat - Say So
