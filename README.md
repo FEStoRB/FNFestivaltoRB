@@ -2,11 +2,16 @@
 
 ![FNF](https://github.com/FEStoRB/FNFestivaltoRB/blob/main/FNF.png?raw=true)
 
+# Missing Songs
+PLEASE do not make issue reports about missing songs. We know. This repo will be updated infrequently. It is a cumbersome process we ask you to please be patient for.
+
+# Converting?
 DO NOT USE ONYX ON THESE FOR ANYTHING UNLESS YOU ARE CONVERTING TO PS3. THEY WILL WORK ON RB3/RB2/RB1.
 CH/PS converting is largely out of the scope of this project, do not bring up any issues about converting to these formats as they just flat out might not work.
 Read onyx.txt for more information.
 Welcome to the FEStoRB repo.
 
+# Description
 These are beautifully recreated tracks from Fortnite Festival, recreated painstakingly for RB format.
 Below is a list of all songs currently completed. (Hand authored) 
 
