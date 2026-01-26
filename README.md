@@ -113,6 +113,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Linkin Park - Numb
 * Linkin Park - Up from the Bottom
 * LMFAO - Party Rock Anthem (ft. Lauren Bennett & GoonRock)
+* LOS TUCANES DE TIJUANA - LA CHONA
 * Machine Gun Kelly - emo girl (ft. WILLOW)
 * Machine Gun Kelly - I Think I'm OKAY (ft. YUNGBLUD & Travis Barker)
 * Machine Gun Kelly - My Ex's Best Friend (ft. blackbear)
