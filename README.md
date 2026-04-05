@@ -76,6 +76,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Green Day - Welcome to Paradise
 * Green Day - When I Come Around
 * Greta Van Fleet - Highway Tune
+* Guns N' Roses - Paradise City
 * Guns N' Roses - Sweet Child O' Mine
 * Guns N' Roses - Welcome to the Jungle
 * Haddaway - What Is Love
