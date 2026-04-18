@@ -199,6 +199,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Twenty One Pilots - Heathens
 * Twenty One Pilots - Stressed Out
 * U2 - With Or Without You
+* Vanessa Carlton - A Thousand Miles
 * Vengaboys - We Like to Party! (The Vengabus)
 * Weeknd, The - Blinding Lights
 * Weeknd, The - Can't Feel My Face
