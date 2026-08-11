@@ -159,6 +159,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Paramore - Still Into You
 * Pat Benatar - Heartbreaker
 * Pharrell Williams - Happy
+* Pierce The Veil - So Far So Fake
 * P!nk - So What
 * Portugal. The Man - Feel It Still
 * Post Malone - Circles
