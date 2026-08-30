@@ -54,6 +54,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Doja Cat - Say So
 * DragonForce - Through the Fire and Flames
 * Earth, Wind & Fire - September
+* Ella Langley - Choosin' Texas
 * Elton John - Rocket Man
 * Epic Games - 8-Bit Beat
 * Epic Games - Butter Barn Hoedown
