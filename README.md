@@ -188,6 +188,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Sabrina Carpenter - Espresso
 * Sabrina Carpenter - Please Please Please
 * Sam Smith - Unholy ft. Kim Petras
+* SEGA SOUND TEAM, Jun Senoue - Green Hill Zone: Act 2 - Normal
 * Shakira - Hips Don't Lie (ft. Wyclef Jean)
 * Shakira - Whenever, Wherever
 * Shawn Mendes - Stitches
