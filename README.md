@@ -218,3 +218,4 @@ Below is a list of all songs currently completed. (Hand authored)
 * White Stripes, The - Fell in Love with a Girl
 * White Stripes, The - Seven Nation Army
 * Yoko Shimomura - Dearly Beloved
+* Yoko Shimomura - The Other Promise
