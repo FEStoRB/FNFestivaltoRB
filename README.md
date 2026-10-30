@@ -207,6 +207,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Sub Urban - Cradles
 * Sum 41 - Fat Lip
 * Taking Back Sunday - MakeDamnSure
+* Technotronic - Pump Up The Jam
 * Toto - Africa
 * Twenty One Pilots - Heathens
 * Twenty One Pilots - Stressed Out
