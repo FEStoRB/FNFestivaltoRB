@@ -85,6 +85,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Guns N' Roses - Sweet Child O' Mine
 * Guns N' Roses - Welcome to the Jungle
 * Haddaway - What Is Love
+* Harry Belafonte - Banana Boat (Day-O)
 * Hechizeros Band - El Sonidito
 * Imagine Dragons - Believer
 * Imagine Dragons - Demons
