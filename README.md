@@ -144,6 +144,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Metallica - Seek & Destroy
 * Metallica - The Unforgiven
 * Metallica - Wherever I May Roam
+* Metric - Black Sheep
 * MGMT - Kids
 * Miley Cyrus - Flowers
 * Montell Jordan - This Is How We Do It
