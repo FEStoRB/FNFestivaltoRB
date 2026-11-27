@@ -186,6 +186,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Ricky Martin - Livin' La Vida Loca
 * Rick Astley - Never Gonna Give You Up
 * Rick James - Super Freak
+* Rob Base & DJ EZ Rock - It Takes Two
 * Rob Zombie - Dragula
 * Ron Wasserman - Go Go Power Rangers
 * ROSÉ - APT. (ft. Bruno Mars)
